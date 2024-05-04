@@ -38,7 +38,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/rodrichie/Narional-Park-System.git
+git clone git@github.com:rodrichie/National-Park-System.git
 Upload the code to your microcontroller.
 Follow the instructions in the documentation to configure the system.
 
